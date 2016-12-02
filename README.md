@@ -1,2 +1,3 @@
 # UserDataCenter
 A demo using archive to realize some data operations such as add,delete,search,archive to files...
+一个基于归档实现的小型本地数据存储方案需要新建的类需要实现基类的数据协议，就拥有了基类提供的所有数据管理方案。类似于基类为工厂，子类为订货商的实现。
